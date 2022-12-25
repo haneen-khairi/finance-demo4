@@ -2374,8 +2374,8 @@ form label.error {
     left: 0;
     right: 0;
     height: 375px;
-    opacity: .5;
-    background: linear-gradient(to bottom, #000 0%, transparent 100%)
+    opacity: .8;
+    background: linear-gradient(to bottom, #000 53%, #000 53%, transparent 99%);
 }
 
 .header-s1.is-transparent .topbar,
